@@ -10,11 +10,11 @@ Basic API JSON with RSpec (TDD)
     Rails
 
 # Gem
-    [Rspec-rails](https://github.com/rspec/rspec-rails)
-    [Factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails)
-    [shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)
-    [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
-    [faker](https://github.com/stympy/faker)
+[Rspec-rails](https://github.com/rspec/rspec-rails)
+[Factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails)
+[shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)
+[database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)
+[faker](https://github.com/stympy/faker)
 
 # Run Local
   
