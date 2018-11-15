@@ -10,11 +10,11 @@ Basic API JSON with RSpec (TDD)
     Rails
 
 # Gem
--[Rspec-rails](https://github.com/rspec/rspec-rails)- Testing framework.
--[Factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails)- Perlengkapan uji test.
--[shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers)- Menyediakan Rspec dengan matcher tambahan.
--[database_cleaner](https://github.com/DatabaseCleaner/database_cleaner)- Membersihkan Database setelah melakukan Test.
--[faker](https://github.com/stympy/faker)- Data Dummy untuk Test RSpec.
+- [Rspec-rails](https://github.com/rspec/rspec-rails) - Testing framework.
+- [Factory_bot_rails](https://github.com/thoughtbot/factory_bot_rails) - Perlengkapan uji test.
+- [shoulda_matchers](https://github.com/thoughtbot/shoulda-matchers) - Menyediakan Rspec dengan matcher tambahan.
+- [database_cleaner](https://github.com/DatabaseCleaner/database_cleaner) - Membersihkan Database setelah melakukan Test.
+- [faker](https://github.com/stympy/faker) - Data Dummy untuk Test RSpec.
 
 # Run Local
   
